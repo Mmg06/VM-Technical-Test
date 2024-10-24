@@ -1,0 +1,1 @@
+gcs_bucket: "gs://your-bucket-name/path-to-file.csv"

@@ -12,8 +12,10 @@ The project is designed to work with Google Cloud Storage as the data source and
 - [Repository Structure](#repository-structure)
 
 ## Running the Pipeline
+I have created a batch processing file to run the main and unit test file together please use the code below for running the script. 
+```
 run.bat
-
+```
 ## Repository Structure
 
 ```plaintext
