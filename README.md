@@ -9,7 +9,6 @@ The project is designed to work with Google Cloud Storage as the data source and
 - [Project Description](#project-description)
 - [Setup Instructions](#setup-instructions)
 - [Running the Pipeline](#running-the-pipeline)
-- [Running the Unit Tests](#running-the-unit-tests)
 - [Repository Structure](#repository-structure)
 
 ## Running the Pipeline
@@ -31,9 +30,6 @@ run.bat
 Clone the repository to your local machine:
 ```bash
 git clone https://github.com/Mmg06/VM-Technical-Test.git
-cd VM-Technical-Test
-# VM-Technical-Test
-VM Data Engineer Tech test
 ```
 ### 2. Set up a virtual environment (optional but recommended)
 ```bash
