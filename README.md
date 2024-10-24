@@ -37,11 +37,11 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
-## 4. Running the Pipeline
+## Running the Pipeline
 
 run.bat
 
-## 5. Repository Structure
+## Repository Structure
 .
 ├── main.py                 # Main Apache Beam pipeline code
 ├── test_main.py            # Unit tests for the pipeline
